@@ -1,3 +1,4 @@
 a = input('Enter 1:')
+b = input('Enter second no:')
 
-print(a)
+print(a + b)
